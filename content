@@ -1,45 +1,54 @@
 Axioms for the Web 
 A&nbsp;+&nbsp;B&nbsp;=&nbsp;B&nbsp;+&nbsp;A
-We <em>don't</em> Have axioms for the Web 
-We <em>can't</em> Have axioms for the Web 
+We <em>don't</em> have axioms for the web 
+We <em>can't</em> have axioms for the web 
 The&nbsp;Web&nbsp;is Young
 WordPress&nbsp;is Young
 2004: The Dawn of Facebook
-1.2&nbsp;(Minugs) Released
+1.2&nbsp;(Mingus) Released
 Sub-categories
 Post preview
 No <em>Tags</em> (&nbsp;2007&nbsp;)
 No <em>Themes</em> (&nbsp;2005&nbsp;)
 WordPress&nbsp;is Young
 Build Axioms
-3 Akin's Laws of <em>Spacecraft Design</em>
+Akin's Laws of <em>Spacecraft Design</em>
+Voyager 1
 #1
 Engineering is done with <em>numbers</em>. Analysis without numbers is only an opinion.
 We need Numbers
+Gather Numbers
 Load Testing
-Benchmarks and Simulations
-How <em>Much</em> is Enough?
+Simulations
+How <em>Much</em> is <em>Enough</em>?
+<em>Read</em> Logs
+cat&nbsp;|&nbsp;grep&nbsp;|&nbsp;awk&nbsp;|&nbsp;sort&nbsp;|&nbsp;uniq
 Siege
 BYOT
 Bees with Machine Guns
+Numbers <em>Matter</em>
 #2
 There is never a single right solution. There are always <em>multiple wrong ones</em>.
+Make a lot of Mistakes
+Only Make Them Once
+Mistakes are gifts
 Unit Tests
-What This Means (REPLACE)
-What This Means (REPLACE)
-What This Means (REPLACE)
-What This Means (REPLACE)
-What This Means (REPLACE)
+phpunit
+qUnit
+Tests are a data point
 #3
 You can't get to the <em>moon</em> by climbing successively taller trees.
 Performance Testing
-Cached Content means <em>Front End</em> Matters Most
+Speed Matters
+Radical Changes
+Cached Content means <em>Front End</em> matters most
 phantomas
 WebCacheGrind
 Debug Bar
 BYOT
 Data <em>&</em> Information
 <em>Inform</em>, don't Drive
+<em>$$$</em> Drives
 Use our Axioms
 in the presence of good rationale, maintainers should be willing to change their mind often.
 https://www.battleforthenet.com

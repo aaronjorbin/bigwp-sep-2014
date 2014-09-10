@@ -7,7 +7,7 @@ html(lang="en")
 		link( href='big.css', rel='stylesheet', type='text/css')
 	body
 		- each val in slideContent 
-			- var isImg = new RegExp(/jpg|jpeg|png|gif/g)
+			- var isImg = new RegExp(/\.[jpg|jpeg|png|gif]/g)
 			if isImg.test( val )
 				.slide
 					img( src=val )
