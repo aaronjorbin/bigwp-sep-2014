@@ -53,3 +53,13 @@ div.imageText {
 small{
 	font-size: 50%;
 }
+.bowtie:after {
+    content: '';
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    /* http://thenounproject.com/noun/bow-tie/#icon-No1244 */
+    background: url('img/bow-tie.svg') no-repeat;
+    height: 100px;
+    width: 100px;
+}
