@@ -1,4 +1,4 @@
-Axiums are ideas we use to start reasoning that are so fundamentaly true, we use them to define what is true. They come from a Greek term that roughly translates to 'that which commends itself as evident.' They are phrases as simple as:
+Axiums are ideas we use to start our reasoning that are so fundamentaly true, we use them to define what is true. They come from a Greek term that roughly translates to 'that which commends itself as evident.' They are phrases as simple as:
 
 A + B = B + A One look at this phrase and we understand the truth within it. Many different fields have Axiums. 	
 
@@ -31,16 +31,23 @@ Calling buidling websites Engineering is a bit of a controversy. But like Aerosp
 
 We need Numbers.  Numbers, data and information help us make the best possible decisions. They help us figure out where we should out our resources. To get our numbers, we need to
 
-Gather Numbers.  This happens in a number of ways.  We have tools like google analytics, mix panel, and AddThis to tell us how our users are using our pages. 
+Gather Numbers.  This happens in a number of ways.  We have tools like google analytics, mix panel, and AddThis to tell us how our users are using our pages. But that's only a part of the numbers we need. What about before we launch a site or a new major feature?  For that, we can turn to  
 
-Load Testing
-Simulations
-How <em>Much</em> is <em>Enough</em>?
-<em>Read</em> Logs
-cat&nbsp;|&nbsp;grep&nbsp;|&nbsp;awk&nbsp;|&nbsp;sort&nbsp;|&nbsp;uniq
+Load Testing.  Load testing is a simulation of traffic. It allows us to understand our traffic before that traffic takes down our sites.  The biggest question we need to ask is 
+
+How <em>Much</em> is <em>Enough</em>?  This is a hard question.  It's not obvius. Luckily, we have a lot of information at our hands that we may not realize.
+
+Our logs are available for us, if we take advantage of them. And it's simple to do so. We can use tools such as  
+
+cat, grep, awk, sort and uniq to better understand our sites. If you write code more than rarely and aren't familiar with the basics for using these classic tools, your homework for tonight is to start getting familiar with them. 
+
+Now when it comes to the actual load testing, you have a couple of options
+
 Siege
 BYOT
 Bees with Machine Guns
+
+
 Numbers <em>Matter</em>
 #2
 There is never a single right solution. There are always <em>multiple wrong ones</em>.
@@ -61,10 +68,17 @@ phantomas
 WebCacheGrind
 Debug Bar
 BYOT
-Data <em>&</em> Information
+
+These three axioms are all about creating new information and data. 
+
+It's important that we use this data to INFORM, not drive our decisions.  Data, just like anything else isn't perfect.  
+
 <em>Inform</em>, don't Drive
 <em>$$$</em> Drives
+
 Use our Axioms
+While we do need to use our axioms.  
+
 in the presence of good rationale, maintainers should be willing to change their mind often.
 https://www.battleforthenet.com
 <span class="bowtie">aaron&nbsp;<em>jorbin</em><br /></span><em>@</em>aaronjorbin<br/>

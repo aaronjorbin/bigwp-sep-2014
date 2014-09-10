@@ -1,5 +1,5 @@
 Axioms for the Web 
-A&nbsp;+&nbsp;B&nbsp;=&nbsp;B&nbsp;+&nbsp;A
+A&nbsp;+&nbsp;B&nbsp;<em>=</em>&nbsp;B&nbsp;+&nbsp;A
 We <em>don't</em> have axioms for the web 
 We <em>can't</em> have axioms for the web 
 The&nbsp;Web&nbsp;is Young
@@ -19,14 +19,12 @@ Engineering is done with <em>numbers</em>. Analysis without numbers is only an o
 We need Numbers
 Gather Numbers
 Load Testing
-Simulations
 How <em>Much</em> is <em>Enough</em>?
 <em>Read</em> Logs
 cat&nbsp;|&nbsp;grep&nbsp;|&nbsp;awk&nbsp;|&nbsp;sort&nbsp;|&nbsp;uniq
 Siege
-BYOT
 Bees with Machine Guns
-Numbers <em>Matter</em>
+BYOT
 #2
 There is never a single right solution. There are always <em>multiple wrong ones</em>.
 Make a lot of Mistakes
